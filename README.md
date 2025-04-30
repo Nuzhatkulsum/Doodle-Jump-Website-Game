@@ -6,6 +6,10 @@ A web-based implementation of the classic Doodle Jump game where players control
 ## Live Demo
 Play the game here: [Doodle Jump Ninja](https://doodle-jump-ninja.windsurf.build)
 
+## Video: is in files only
+
+
+
 ## Technologies Used
 - **Frontend**:
   - HTML5 Canvas for game rendering
@@ -30,10 +34,11 @@ Play the game here: [Doodle Jump Ninja](https://doodle-jump-ninja.windsurf.build
 - Restart functionality
 
 ## Screenshots
-![Game Interface](screenshots/game-interface.png)
+![image](https://github.com/user-attachments/assets/ccef0694-738a-44fc-94b1-432cbb37c371)
+![image](https://github.com/user-attachments/assets/a5874e3c-22ce-4a62-8508-0475748f5517)
 *Game Interface with Ninja Character*
 
-![Game Over Screen](screenshots/game-over.png)
+![image](https://github.com/user-attachments/assets/b9dd8003-13cb-4f7a-aafa-9d8ca52d1921)
 *Game Over Screen with Leaderboard*
 
 ## How to Deploy on Netlify
