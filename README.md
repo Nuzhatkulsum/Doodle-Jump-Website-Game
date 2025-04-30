@@ -95,7 +95,7 @@ node server.js
 - Use the Restart button to quickly start a new game
 
 ## Contributing
-Feel free to fork this repository and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
+nuzhat kulsum author if you want  to fork this repository and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under md nuzhat kulsum - see the LICENSE file for details.
