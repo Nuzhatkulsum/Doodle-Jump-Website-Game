@@ -6,9 +6,11 @@ A web-based implementation of the classic Doodle Jump game where players control
 ## Live Demo
 Play the game here: [Doodle Jump Ninja](https://doodle-jump-ninja.windsurf.build)
 
-## Video: https://drive.google.com/drive/folders/1ZgfImjmI_SVpf-jyKJjqtA8JttwI4WMx?usp=sharing
+## Video:
+https://drive.google.com/drive/folders/1ZgfImjmI_SVpf-jyKJjqtA8JttwI4WMx?usp=sharing
 
-
+## NETLIFY LINK:
+https://doodlejumpegame.netlify.app/
 
 ## Technologies Used
 - **Frontend**:
