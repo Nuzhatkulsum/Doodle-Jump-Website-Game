@@ -43,33 +43,6 @@ https://doodlejumpegame.netlify.app/
 ![image](https://github.com/user-attachments/assets/b9dd8003-13cb-4f7a-aafa-9d8ca52d1921)
 *Game Over Screen with Leaderboard*
 
-## How to Deploy on Netlify
-
-1. **Prepare Your Repository**
-   - Ensure all code is committed to your GitHub repository
-   - Verify the presence of required files:
-     - `netlify.toml`
-     - `package.json`
-     - `.gitignore`
-
-2. **Deploy to Netlify**
-   - Sign up/Login to [Netlify](https://www.netlify.com)
-   - Click "New site from Git"
-   - Select your GitHub repository
-   - Configure build settings:
-     - Build command: `npm install`
-     - Publish directory: `.`
-   - Click "Deploy site"
-
-3. **Configure Domain**
-   - Once deployed, Netlify will provide a random subdomain
-   - You can set up a custom domain in site settings
-
-4. **Verify Deployment**
-   - Check if the site is live
-   - Test all functionality
-   - Verify leaderboard API connectivity
-
 ## Local Development
 1. Clone the repository
 ```bash
